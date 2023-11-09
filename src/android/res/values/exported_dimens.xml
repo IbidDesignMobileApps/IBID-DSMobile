@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+ 
+ 
+
+    <dimen name="dimension_dimension_paragraph_indent_0">0dp</dimen> 
+ 
+ 
+ 
+
+    <dimen name="space_spacing_4">4dp</dimen>
+    <dimen name="space_spacing_8">8dp</dimen>
+    <dimen name="space_spacing_16">16dp</dimen>
+    <dimen name="space_spacing_24">24dp</dimen>
+    <dimen name="space_spacing_32">32dp</dimen> 
+ 
+ 
+
+    <dimen name="font_size_font_size_font_size_0">10dp</dimen>
+    <dimen name="font_size_font_size_font_size_1">12dp</dimen>
+    <dimen name="font_size_font_size_font_size_2">14dp</dimen>
+    <dimen name="font_size_font_size_font_size_3">16dp</dimen>
+    <dimen name="font_size_font_size_font_size_4">18dp</dimen>
+    <dimen name="font_size_font_size_font_size_5">20dp</dimen>
+    <dimen name="font_size_font_size_font_size_6">24dp</dimen>
+    <dimen name="font_size_font_size_font_size_7">28dp</dimen>
+    <dimen name="font_size_font_size_font_size_8">32dp</dimen>
+    <dimen name="font_size_font_size_font_size_9">36dp</dimen>
+    <dimen name="font_size_font_size_font_size_10">40dp</dimen>
+    <dimen name="font_size_font_size_font_size_11">44dp</dimen>
+    <dimen name="font_size_font_size_font_size_12">52dp</dimen> 
+ 
+ 
+
+    <dimen name="line_height_line_height_line_heights_0">56dp</dimen>
+    <dimen name="line_height_line_height_line_heights_1">48dp</dimen>
+    <dimen name="line_height_line_height_line_heights_2">44dp</dimen>
+    <dimen name="line_height_line_height_line_heights_3">40dp</dimen>
+    <dimen name="line_height_line_height_line_heights_4">36dp</dimen>
+    <dimen name="line_height_line_height_line_heights_5">32dp</dimen>
+    <dimen name="line_height_line_height_line_heights_6">28dp</dimen>
+    <dimen name="line_height_line_height_line_heights_7">24dp</dimen>
+    <dimen name="line_height_line_height_line_heights_8">30dp</dimen>
+    <dimen name="line_height_line_height_line_heights_9">20dp</dimen>
+    <dimen name="line_height_line_height_line_heights_10">18dp</dimen>
+    <dimen name="line_height_line_height_line_heights_11">16dp</dimen> 
+ 
+ 
+
+    <dimen name="letter_spacing_letter_spacing_letter_spacing_0">-2dp</dimen>
+    <dimen name="letter_spacing_letter_spacing_letter_spacing_1">0dp</dimen>
+    <dimen name="letter_spacing_letter_spacing_letter_spacing_2">1dp</dimen> 
+ 
+ 
+
+    <dimen name="paragraph_spacing_paragraph_spacing_paragraph_spacing_0">0dp</dimen>
+    <dimen name="paragraph_spacing_paragraph_spacing_paragraph_spacing_1">60dp</dimen> 
+ 
+ 
+
+    <dimen name="border_radius_border_radius_small">10dp</dimen>
+    <dimen name="border_radius_border_radius_medium">12dp</dimen>
+    <dimen name="border_radius_border_radius_big">16dp</dimen>
+    <dimen name="border_radius_border_radius_bigger">18dp</dimen>
+    <dimen name="border_radius_border_radius_biggest">24dp</dimen> 
+ 
+ 
+
+</resources>
