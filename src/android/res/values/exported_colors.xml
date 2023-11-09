@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="generic_white">#ffffffff</color>
+    <color name="generic_black">#ff000000</color>
+
+    <color name="neutral_200">#ffe5e5e5</color>
+    <color name="neutral_20">#fff5f5f5</color>
+    <color name="neutral_30">#ffededed</color>
+    <color name="neutral_40">#ffe0e0e0</color>
+    <color name="neutral_10">#ffffffff</color>
+    <color name="neutral_50">#fffafafa</color>
+    <color name="neutral_60">#ff9e9e9e</color>
+    <!-- 
+        757575 
+    -->
+    <color name="neutral_70">#ff757575</color>
+    <color name="neutral_80">#ff616161</color>
+    <color name="neutral_90">#ff404040</color>
+    <color name="neutral_100">#fff5f5f5</color>
+    <color name="neutral_300">#ffd4d4d4</color>
+    <color name="neutral_400">#ffa3a3a3</color>
+    <color name="neutral_500">#ff737373</color>
+    <color name="neutral_600">#ff525252</color>
+    <color name="neutral_700">#ff404040</color>
+    <color name="neutral_800">#ff262626</color>
+    <color name="neutral_900">#ff171717</color>
+    <!-- 
+        FFFFFF 
+    -->
+    <color name="neutral_10">#ffffffff</color>
+    <!-- 
+        F5F5F5 
+    -->
+    <color name="neutral_20">#fff5f5f5</color>
+    <!-- 
+        EDEDED 
+    -->
+    <color name="neutral_30">#ffededed</color>
+    <!-- 
+        E0E0E0 
+    -->
+    <color name="neutral_40">#ffe0e0e0</color>
+    <!-- 
+        C2C2C2 
+    -->
+    <color name="neutral_50">#ffc2c2c2</color>
+    <!-- 
+        9E9E9E 
+    -->
+    <color name="neutral_60">#ff9e9e9e</color>
+    <!-- 
+        757575 
+    -->
+    <color name="neutral_70">#ff757575</color>
+    <!-- 
+        616161 
+    -->
+    <color name="neutral_80">#ff616161</color>
+    <color name="neutral_90">#ff404040</color>
+    <!-- 
+        Title 
+    -->
+    <color name="neutral_100">#ff0a0a0a</color>
+
+    <color name="success_pressed">#ff20573d</color>
+    <color name="success_surface">#fff7f7f7</color>
+    <color name="success_main">#ff43936c</color>
+    <color name="success_border">#ffb8dbca</color>
+    <color name="success_hover">#ff367a59</color>
+    <color name="success_main">#ff43936c</color>
+    <color name="success_surface">#fff7f7f7</color>
+    <color name="success_border">#ffb8dbca</color>
+    <color name="success_hover">#ff367a59</color>
+    <color name="success_50">#fff0fdf4</color>
+    <color name="success_100">#ffdcfce7</color>
+    <color name="success_200">#ffbbf7d0</color>
+    <color name="success_300">#ff86efac</color>
+    <color name="success_400">#ff4ade80</color>
+    <color name="success_600">#ff16a34a</color>
+    <color name="success_700">#ff15803d</color>
+    <color name="success_800">#ff166534</color>
+    <color name="success_900">#ff14532d</color>
+    <color name="success_500_main">#ff22c55e</color>
+
+
+    <color name="accent_yellow_50">#fffffae6</color>
+    <color name="accent_yellow_100">#fffff7da</color>
+    <color name="accent_yellow_200">#fffeeeb2</color>
+    <color name="accent_yellow_300">#fffcc907</color>
+    <color name="accent_yellow_400">#ffe3b506</color>
+    <color name="accent_yellow_500">#ffcaa106</color>
+    <color name="accent_yellow_600">#ffbd9705</color>
+    <color name="accent_yellow_700">#ff977904</color>
+    <color name="accent_yellow_800">#ff715a03</color>
+    <color name="accent_yellow_900">#ff584602</color>
+    <color name="accent_yellow_300">#fffcc907</color>
+
+    <color name="accent_orange_50">#fffeeee9</color>
+    <color name="accent_orange_100">#fffde6de</color>
+    <color name="accent_orange_200">#fffbcbba</color>
+    <color name="accent_orange_300">#fff15622</color>
+    <color name="accent_orange_400">#ffd94d1f</color>
+    <color name="accent_orange_500">#ffc1451b</color>
+    <color name="accent_orange_600">#ffb5411a</color>
+    <color name="accent_orange_700">#ff913414</color>
+    <color name="accent_orange_800">#ff6c270f</color>
+    <color name="accent_orange_900">#ff541e0c</color>
+
+    <color name="accent_violet_50">#fff2ebfd</color>
+    <color name="accent_violet_100">#ffe0d0fb</color>
+    <color name="accent_violet_200">#ffc7aaf7</color>
+    <color name="accent_violet_300">#ffac83f4</color>
+    <color name="accent_violet_400">#ff945df0</color>
+    <color name="accent_violet_500">#ff7c3aed</color>
+    <color name="accent_violet_600">#ff6931c9</color>
+    <color name="accent_violet_700">#ff5829a8</color>
+    <color name="accent_violet_800">#ff472187</color>
+    <color name="accent_violet_900">#ff381a6b</color>
+
+    <color name="accent_cyan_50">#ffedfdff</color>
+    <color name="accent_cyan_100">#ffdef8fc</color>
+    <color name="accent_cyan_200">#ffbaf1fa</color>
+    <color name="accent_cyan_300">#ff22d3ee</color>
+    <color name="accent_cyan_400">#ff1fbed6</color>
+    <color name="accent_cyan_500">#ff1ba9be</color>
+    <color name="accent_cyan_600">#ff1a9eb3</color>
+    <color name="accent_cyan_700">#ff147f8f</color>
+    <color name="accent_cyan_800">#ff0f5f6b</color>
+    <color name="accent_cyan_900">#ff0c4a53</color>
+
+    <color name="info_main">#ff3267e3</color>
+    <color name="info_surface">#fff0f3ff</color>
+    <color name="info_border">#ffb1c5f6</color>
+    <color name="info_hover">#ff114cd6</color>
+    <color name="info_pressed">#ff11317d</color>
+    <color name="info_main">#ff3267e3</color>
+    <color name="info_surface">#fff0f3ff</color>
+    <color name="info_border">#ffb1c5f6</color>
+    <color name="info_hover">#ff114cd6</color>
+    <color name="info_pressed">#ff11317d</color>
+    <color name="info_50">#ffeef2ff</color>
+    <color name="info_100">#ffe0e7ff</color>
+    <color name="info_200">#ffc7d2fe</color>
+    <color name="info_300">#ffa5b4fc</color>
+    <color name="info_400">#ff818cf8</color>
+    <color name="info_600">#ff4f46e5</color>
+    <color name="info_700">#ff4338ca</color>
+    <color name="info_800">#ff3730a3</color>
+    <color name="info_900">#ff312e81</color>
+    <color name="info_500_main">#ff6366f1</color>
+
+    <color name="primary_pressed">#ff6b8f36</color>
+    <color name="primary_main">#ffa3cf62</color>
+    <color name="primary_surface">#ffedf5e0</color>
+    <color name="primary_border">#ffcce7a4</color>
+    <color name="primary_hover">#ff6b8f36</color>
+    <color name="primary_focus">#4da3cf62</color>
+    <color name="primary_main">#ffa3cf62</color>
+    <color name="primary_surface">#ffedf5e0</color>
+    <color name="primary_border">#ffcce7a4</color>
+    <!-- 
+        6B8F36 
+    -->
+    <color name="primary_hover">#ff6b8f36</color>
+    <color name="primary_focus">#4da3cf62</color>
+    <color name="primary_50">#fff6faef</color>
+    <color name="primary_100">#ffe9f3d9</color>
+    <color name="primary_200">#ffd7eabb</color>
+    <color name="primary_300">#ffc5e19c</color>
+    <color name="primary_400">#ffb4d87e</color>
+    <color name="primary_600">#ff8bb053</color>
+    <color name="primary_700">#ff749346</color>
+    <color name="primary_800">#ff5d7638</color>
+    <color name="primary_900">#ff495d2c</color>
+    <color name="primary_500_main">#ffa3cf62</color>
+
+    <color name="warning_hover">#ffbf6919</color>
+    <color name="warning_surface">#fffff9f2</color>
+    <color name="warning_border">#ffeeceb0</color>
+    <color name="warning_main">#ffcd7b2e</color>
+    <color name="warning_pressed">#ff734011</color>
+    <color name="warning_main">#ffcd7b2e</color>
+    <color name="warning_surface">#fffff9f2</color>
+    <color name="warning_border">#ffeeceb0</color>
+    <color name="warning_50">#fffffbeb</color>
+    <color name="warning_100">#fffef3c7</color>
+    <color name="warning_200">#fffde68a</color>
+    <color name="warning_300">#fffcd34d</color>
+    <color name="warning_400">#fffbbf24</color>
+    <color name="warning_600">#ffd97706</color>
+    <color name="warning_700">#ffb45309</color>
+    <color name="warning_800">#ff92400e</color>
+    <color name="warning_900">#ff78350f</color>
+    <color name="warning_500_main">#fff59e0b</color>
+
+    <color name="secondary_main">#ff903f98</color>
+    <color name="secondary_surface">#fffef0ff</color>
+    <color name="secondary_boder">#fff3cbf7</color>
+    <color name="secondary_hover">#ff66296b</color>
+    <color name="secondary_pressed">#ff501856</color>
+    <color name="secondary_focused">#4d903f98</color>
+    <color name="secondary_main">#ff903f98</color>
+    <!-- 
+        FEF0FF 
+    -->
+    <color name="secondary_surface">#fffef0ff</color>
+    <color name="secondary_boder">#fff3cbf7</color>
+    <color name="secondary_hover">#ff66296b</color>
+    <color name="secondary_50">#fff4ecf5</color>
+    <color name="secondary_100">#ffe4d1e6</color>
+    <color name="secondary_200">#ffcfacd3</color>
+    <color name="secondary_300">#ffb986be</color>
+    <color name="secondary_400">#ffa462ab</color>
+    <color name="secondary_500">#ff903f98</color>
+    <color name="secondary_600">#ff7a3681</color>
+    <color name="secondary_700">#ff662d6c</color>
+    <color name="secondary_800">#ff522457</color>
+    <color name="secondary_900">#ff411c44</color>
+
+    <color name="danger_main">#ffcb3a31</color>
+    <color name="danger_hover">#ffbd251c</color>
+    <color name="danger_surface">#fffff4f2</color>
+    <color name="danger_border">#ffeeb4b0</color>
+    <color name="danger_pressed">#ff731912</color>
+    <color name="danger_main">#ffcb3a31</color>
+    <color name="danger_surface">#fffff4f2</color>
+    <color name="danger_border">#ffeeb4b0</color>
+    <color name="danger_hover">#ffbd251c</color>
+    <color name="danger_50">#fffef2f2</color>
+    <color name="danger_100">#fffee2e2</color>
+    <color name="danger_200">#fffecaca</color>
+    <color name="danger_300">#fffca5a5</color>
+    <color name="danger_400">#fff87171</color>
+    <color name="danger_600">#ffdc2626</color>
+    <color name="danger_700">#ffb91c1c</color>
+    <color name="danger_800">#ff991b1b</color>
+    <color name="danger_900">#ff7f1d1d</color>
+    <color name="danger_500_main">#ffef4444</color>
+
+
+</resources>
