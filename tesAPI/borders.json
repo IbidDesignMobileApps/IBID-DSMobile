@@ -1,0 +1,82 @@
+{
+  "border": {
+    "soft": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "{color.neutral.40.value}"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 1
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Outside"
+        }
+      },
+      "type": "border"
+    },
+    "neutral": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "{color.neutral.50.value}"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 1
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Outside"
+        }
+      },
+      "type": "border"
+    },
+    "strong": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "{color.neutral.60.value}"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 1
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Outside"
+        }
+      },
+      "type": "border"
+    }
+  }
+}
