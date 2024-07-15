@@ -43,6 +43,52 @@
     <color name="_900">#ff584602</color>
     <color name="_300">#fffcc907</color>
 
+    <color name="primary_pressed">#ff6b8f36</color>
+    <color name="primary_main">#ffa3cf62</color>
+    <color name="primary_surface">#ffedf5e0</color>
+    <color name="primary_border">#ffcce7a4</color>
+    <color name="primary_hover">#ff6b8f36</color>
+    <color name="primary_focus">#4da3cf62</color>
+    <color name="primary_main">#ffa3cf62</color>
+    <color name="primary_surface">#ffedf5e0</color>
+    <color name="primary_border">#ffcce7a4</color>
+    <!-- 
+        6B8F36 
+    -->
+    <color name="primary_hover">#ff6b8f36</color>
+    <color name="primary_focus">#4da3cf62</color>
+    <color name="primary_50">#fff6faef</color>
+    <color name="primary_100">#ffe9f3d9</color>
+    <color name="primary_200">#ffd7eabb</color>
+    <color name="primary_300">#ffc5e19c</color>
+    <color name="primary_400">#ffb4d87e</color>
+    <color name="primary_600">#ff8bb053</color>
+    <color name="primary_700">#ff749346</color>
+    <color name="primary_800">#ff5d7638</color>
+    <color name="primary_900">#ff495d2c</color>
+    <color name="primary_500_main">#ffa3cf62</color>
+
+    <color name="info_main">#ff3267e3</color>
+    <color name="info_surface">#fff0f3ff</color>
+    <color name="info_border">#ffb1c5f6</color>
+    <color name="info_hover">#ff114cd6</color>
+    <color name="info_pressed">#ff11317d</color>
+    <color name="info_main">#ff3267e3</color>
+    <color name="info_surface">#fff0f3ff</color>
+    <color name="info_border">#ffb1c5f6</color>
+    <color name="info_hover">#ff114cd6</color>
+    <color name="info_pressed">#ff11317d</color>
+    <color name="info_50">#ffeef2ff</color>
+    <color name="info_100">#ffe0e7ff</color>
+    <color name="info_200">#ffc7d2fe</color>
+    <color name="info_300">#ffa5b4fc</color>
+    <color name="info_400">#ff818cf8</color>
+    <color name="info_600">#ff4f46e5</color>
+    <color name="info_700">#ff4338ca</color>
+    <color name="info_800">#ff3730a3</color>
+    <color name="info_900">#ff312e81</color>
+    <color name="info_500_main">#ff6366f1</color>
+
     <color name="neutral_200">#ffe5e5e5</color>
     <color name="neutral_20">#fff5f5f5</color>
     <color name="neutral_30">#ffededed</color>
@@ -101,52 +147,6 @@
         Title 
     -->
     <color name="neutral_100">#ff0a0a0a</color>
-
-    <color name="primary_pressed">#ff6b8f36</color>
-    <color name="primary_main">#ffa3cf62</color>
-    <color name="primary_surface">#ffedf5e0</color>
-    <color name="primary_border">#ffcce7a4</color>
-    <color name="primary_hover">#ff6b8f36</color>
-    <color name="primary_focus">#4da3cf62</color>
-    <color name="primary_main">#ffa3cf62</color>
-    <color name="primary_surface">#ffedf5e0</color>
-    <color name="primary_border">#ffcce7a4</color>
-    <!-- 
-        6B8F36 
-    -->
-    <color name="primary_hover">#ff6b8f36</color>
-    <color name="primary_focus">#4da3cf62</color>
-    <color name="primary_50">#fff6faef</color>
-    <color name="primary_100">#ffe9f3d9</color>
-    <color name="primary_200">#ffd7eabb</color>
-    <color name="primary_300">#ffc5e19c</color>
-    <color name="primary_400">#ffb4d87e</color>
-    <color name="primary_600">#ff8bb053</color>
-    <color name="primary_700">#ff749346</color>
-    <color name="primary_800">#ff5d7638</color>
-    <color name="primary_900">#ff495d2c</color>
-    <color name="primary_500_main">#ffa3cf62</color>
-
-    <color name="info_main">#ff3267e3</color>
-    <color name="info_surface">#fff0f3ff</color>
-    <color name="info_border">#ffb1c5f6</color>
-    <color name="info_hover">#ff114cd6</color>
-    <color name="info_pressed">#ff11317d</color>
-    <color name="info_main">#ff3267e3</color>
-    <color name="info_surface">#fff0f3ff</color>
-    <color name="info_border">#ffb1c5f6</color>
-    <color name="info_hover">#ff114cd6</color>
-    <color name="info_pressed">#ff11317d</color>
-    <color name="info_50">#ffeef2ff</color>
-    <color name="info_100">#ffe0e7ff</color>
-    <color name="info_200">#ffc7d2fe</color>
-    <color name="info_300">#ffa5b4fc</color>
-    <color name="info_400">#ff818cf8</color>
-    <color name="info_600">#ff4f46e5</color>
-    <color name="info_700">#ff4338ca</color>
-    <color name="info_800">#ff3730a3</color>
-    <color name="info_900">#ff312e81</color>
-    <color name="info_500_main">#ff6366f1</color>
 
     <color name="success_pressed">#ff20573d</color>
     <color name="success_surface">#fff7f7f7</color>

@@ -99,48 +99,6 @@
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadlineLarge">
-        <item name="android:textSize">32sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_700</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadlineMedium">
-        <item name="android:textSize">28sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_700</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadlineLarge">
-        <item name="android:textSize">32sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadlineMedium">
-        <item name="android:textSize">28sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadlineSmall">
-        <item name="android:textSize">24sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadlineSmall">
-        <item name="android:textSize">24sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_700</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
     <style name="BodyLarge">
         <item name="android:textSize">16sp</item>
         <item name="android:letterSpacing">-2</item>
@@ -225,270 +183,60 @@
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="LabelLarge">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_500</item>
+    <style name="HeadingH5MediumDesktop">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_medium</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="LabelMedium">
-        <item name="android:textSize">10sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_500</item>
+    <style name="HeadingH5MediumMobile">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_medium</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="LabelSmall">
-        <item name="android:textSize">8sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_500</item>
+    <style name="HeadingH5SemiboldDesktop">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_semi_bold</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="LabelLarge">
-        <item name="android:textSize">14sp</item>
+    <style name="HeadingH5SemiboldMobile">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingH5ExtraboldDesktop">
+        <item name="android:textSize">24sp</item>
         <item name="android:letterSpacing">-2</item>
         <item name="android:fontFamily">@font/lato_extra_bold</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="LabelMedium">
-        <item name="android:textSize">12sp</item>
+    <style name="HeadingH5ExtraboldMobile">
+        <item name="android:textSize">20sp</item>
         <item name="android:letterSpacing">-2</item>
         <item name="android:fontFamily">@font/lato_extra_bold</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="LabelSmall">
-        <item name="android:textSize">10sp</item>
+    <style name="HeadingH5BoldDesktop">
+        <item name="android:textSize">24sp</item>
         <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_extra_bold</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="ParagraphMediumRegular">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphMediumMedium">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphMediumSemibold">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphMediumSpecialUnderline">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphMediumSpecialStrikethrough">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphMediumSpecialItalics">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_italic</item>
-        <item name="android:textStyle">italic|bold</item>
-    </style>
-    
-    <style name="ParagraphOverlineLarge">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">1</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphOverlineSmall">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">1</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXLargeRegular">
+    <style name="HeadingH5BoldMobile">
         <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
         <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXLargeMedium">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXLargeSemibold">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXLargeSpecialUnderline">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXLargeSpecialStrikethrough">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXLargeSpecialItalics">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_italic</item>
-        <item name="android:textStyle">italic|bold</item>
-    </style>
-    
-    <style name="ParagraphLargeRegular">
-        <item name="android:textSize">16sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphLargeMedium">
-        <item name="android:textSize">16sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphLargeSemibold">
-        <item name="android:textSize">16sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphLargeSpecialUnderline">
-        <item name="android:textSize">16sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphLargeSpecialStrikethrough">
-        <item name="android:textSize">16sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphLargeSpecialItalics">
-        <item name="android:textSize">16sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_italic</item>
-        <item name="android:textStyle">italic|bold</item>
-    </style>
-    
-    <style name="ParagraphSmallRegular">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphSmallMedium">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphSmallSemibold">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphSmallSpecialUnderline">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphSmallSpecialStrikethrough">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphSmallSpecialItalics">
-        <item name="android:textSize">12sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_italic</item>
-        <item name="android:textStyle">italic|bold</item>
-    </style>
-    
-    <style name="ParagraphXSmallRegular">
-        <item name="android:textSize">10sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXSmallMedium">
-        <item name="android:textSize">10sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXSmallSemibold">
-        <item name="android:textSize">10sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXSmallSpecialUnderline">
-        <item name="android:textSize">10sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXSmallSpecialStrikethrough">
-        <item name="android:textSize">10sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="ParagraphXSmallSpecialItalics">
-        <item name="android:textSize">10sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/lato_italic</item>
-        <item name="android:textStyle">italic|bold</item>
     </style>
     
     <style name="HeadingH6MediumDesktop">
@@ -659,20 +407,6 @@
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadingH4MediumDesktop">
-        <item name="android:textSize">28sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadingH4MediumMobile">
-        <item name="android:textSize">24sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
     <style name="HeadingH4BoldDesktop">
         <item name="android:textSize">28sp</item>
         <item name="android:letterSpacing">-2</item>
@@ -698,6 +432,20 @@
         <item name="android:textSize">24sp</item>
         <item name="android:letterSpacing">-2</item>
         <item name="android:fontFamily">@font/lato_extra_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingH4MediumDesktop">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingH4MediumMobile">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_medium</item>
         <item name="android:textStyle">normal</item>
     </style>
     
@@ -771,59 +519,87 @@
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadingH5MediumDesktop">
+    <style name="HeadlineLarge">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/lato_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadlineMedium">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/lato_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadlineLarge">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadlineMedium">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">-2</item>
+        <item name="android:fontFamily">@font/lato_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadlineSmall">
         <item name="android:textSize">24sp</item>
         <item name="android:letterSpacing">-2</item>
         <item name="android:fontFamily">@font/lato_medium</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadingH5MediumMobile">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_medium</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadingH5SemiboldDesktop">
+    <style name="HeadlineSmall">
         <item name="android:textSize">24sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/lato_700</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadingH5SemiboldMobile">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_semi_bold</item>
+    <style name="LabelLarge">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/lato_500</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadingH5ExtraboldDesktop">
-        <item name="android:textSize">24sp</item>
+    <style name="LabelMedium">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/lato_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelSmall">
+        <item name="android:textSize">8sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/lato_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelLarge">
+        <item name="android:textSize">14sp</item>
         <item name="android:letterSpacing">-2</item>
         <item name="android:fontFamily">@font/lato_extra_bold</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadingH5ExtraboldMobile">
-        <item name="android:textSize">20sp</item>
+    <style name="LabelMedium">
+        <item name="android:textSize">12sp</item>
         <item name="android:letterSpacing">-2</item>
         <item name="android:fontFamily">@font/lato_extra_bold</item>
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="HeadingH5BoldDesktop">
-        <item name="android:textSize">24sp</item>
+    <style name="LabelSmall">
+        <item name="android:textSize">10sp</item>
         <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_bold</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="HeadingH5BoldMobile">
-        <item name="android:textSize">20sp</item>
-        <item name="android:letterSpacing">-2</item>
-        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:fontFamily">@font/lato_extra_bold</item>
         <item name="android:textStyle">normal</item>
     </style>
 

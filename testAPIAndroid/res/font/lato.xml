@@ -41,15 +41,5 @@
         app:fontWeight="500"
         app:font="@font/lato_500" />
 
-    <font
-        app:fontStyle="normal"
-        app:fontWeight="400"
-        app:font="@font/lato_regular" />
-
-    <font
-        app:fontStyle="italic"
-        app:fontWeight="400"
-        app:font="@font/lato_italic" />
-
 </font-family>    
 
